@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ testing this line
  */
 public class App {
 
